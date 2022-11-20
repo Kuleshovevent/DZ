@@ -28,5 +28,4 @@ else if (numberThird > numberSecond)
     {
         Console.WriteLine("Number Third=max");
     }
-Console.WriteLine("Number Third=max");
 }
